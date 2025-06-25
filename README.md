@@ -7,3 +7,5 @@ This is a small project I built to practice and improve my coding skills, inspir
 I followed his tutorial as a reference, but this is my own interpretation — I’ve written the code my way, adding my personal touch.
 
 Feel free to explore the project, fork it, or scroll endlessly until your internet gives up. 😉
+
+Take a look! https://damiancu.github.io/moto_scroll_js/
